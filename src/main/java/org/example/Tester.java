@@ -50,6 +50,6 @@ public class Tester
 
     public static void staticMethod()
     {
-        System.out.println("Это статичечкий метод в классе Tster");
+        System.out.println("Это статичечкий метод в классе Tester");
     }
 }
