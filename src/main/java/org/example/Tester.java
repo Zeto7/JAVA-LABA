@@ -29,6 +29,7 @@ public class Tester
 
     public void printInfo()
     {
+
         System.out.println("Name: " + name);
         System.out.println("Surname: " + surname);
         System.out.println("Experience in years: " + experienceInYears);
